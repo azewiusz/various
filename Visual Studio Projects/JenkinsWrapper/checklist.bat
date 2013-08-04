@@ -2,10 +2,8 @@
 ECHO.
 ECHO Checking environment variables...
 ECHO.
-
 SET ERR=
 SET ERR2=
-
 IF "%JAVA_HOME%"=="" (
    ECHO JAVA_HOME	[FAILED] the environment variable is not defined.
    SET ERR=1
@@ -24,7 +22,7 @@ IF "%JENKINS_HOME%"=="" (
 IF "%ERR2%"=="1" (
    ECHO.
    ECHO Basic Environment Variables Missing, re-run this script after providing above variables.
-   exit /B 2
+   goto finito
    )
 
 
@@ -41,14 +39,10 @@ IF not EXIST "%JENKINS_HOME%\start.bat" (
 ) ELSE (
    ECHO runbinary files	[OK]	"%JENKINS_HOME%\start.bat"
 )
+:finito
+ECHO.
+pause Press any key to close this window...
 
-IF "%ERR%"=="1" (
-   ECHO.
-   ECHO Missing prerequsities, see above list.
-   exit /B 3
-   ) ELSE (
-@ECHO ON
-installutil JenkinsWrapper.exe /servicename="ProcessWrapper" /servicedisplayname="Jenkins IE" /runbinary="%JENKINS_HOME%\service.bat" /workdir="%JENKINS_HOME%"
-echo installutil /u JenkinsWrapper.exe /servicename="ProcessWrapper" /servicedisplayname="Jenkins IE" > uniinstall.bat
-echo del uniinstall.bat >> uniinstall.bat
-)
+
+
+
