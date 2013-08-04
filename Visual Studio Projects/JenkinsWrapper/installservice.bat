@@ -46,9 +46,10 @@ IF "%ERR%"=="1" (
    ECHO.
    ECHO Missing prerequsities, see above list.
    exit /B 3
-   ) ELSE (
+ ) 
 @ECHO ON
 installutil JenkinsWrapper.exe /servicename="ProcessWrapper" /servicedisplayname="Jenkins IE" /runbinary="%JENKINS_HOME%\service.bat" /workdir="%JENKINS_HOME%"
-echo installutil /u JenkinsWrapper.exe /servicename="ProcessWrapper" /servicedisplayname="Jenkins IE" > uniinstall.bat
-echo del uniinstall.bat >> uniinstall.bat
-)
+@ECHO OFF
+ECHO installutil /u JenkinsWrapper.exe /servicename="ProcessWrapper" /servicedisplayname="Jenkins IE" > uniinstall.bat
+ECHO del uniinstall.bat >> uniinstall.bat
+@ECHO ON
