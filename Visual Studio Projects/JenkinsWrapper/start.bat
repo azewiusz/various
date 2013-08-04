@@ -1,0 +1,1 @@
+"%JAVA_HOME%\jre\bin\java.exe" -Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -jar "%JENKINS_HOME%\jenkins.war" --httpPort=8081

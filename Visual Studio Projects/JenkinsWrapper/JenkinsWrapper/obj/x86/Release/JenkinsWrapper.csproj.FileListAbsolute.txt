@@ -1,0 +1,18 @@
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\JenkinsWrapper.exe
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\JenkinsWrapper.pdb
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\dotnetcli-0.1.1.dll
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.ProjectInstaller.resources
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.Service1.resources
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.csproj.GenerateResource.Cache
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.exe
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.pdb
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\JenkinsWrapper.exe.config
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\JenkinsWrapper.exe.config
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\JenkinsWrapper.exe
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\JenkinsWrapper.pdb
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Release\dotnetcli-0.1.1.dll
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.ProjectInstaller.resources
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.Service1.resources
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.exe
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Release\JenkinsWrapper.pdb

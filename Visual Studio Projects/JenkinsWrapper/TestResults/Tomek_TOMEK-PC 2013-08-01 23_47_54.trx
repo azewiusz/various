@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3145d6f9-b4c0-4a97-add1-fc3e012df3f1" name="Tomek@TOMEK-PC 2013-08-01 23:47:54" runUser="Tomek-PC\Tomek" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="83c6241b-0179-4f92-a97f-e8c97ffb8fdc">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Tomek_TOMEK-PC 2013-08-01 23_47_54">
+      <DeploymentItem filename="c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\JenkinsWrapper.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-08-01T23:47:54.0995733+02:00" queuing="2013-08-01T23:47:54.1605811+02:00" start="2013-08-01T23:47:54.1640815+02:00" finish="2013-08-01T23:47:54.3626067+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_getPID" storage="c:\users\tomek\documents\visual studio 2010\projects\jenkinswrapper\unittests\bin\debug\unittests.dll" id="36df5438-4de6-ec1e-e4e7-f8eda85c9381">
+      <Execution id="44d685fa-8e62-44fe-94f4-244c6fc7af70" />
+      <TestMethod codeBase="c:/users/tomek/documents/visual studio 2010/Projects/JenkinsWrapper/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.UnitTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_getPID" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="36df5438-4de6-ec1e-e4e7-f8eda85c9381" executionId="44d685fa-8e62-44fe-94f4-244c6fc7af70" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="44d685fa-8e62-44fe-94f4-244c6fc7af70" testId="36df5438-4de6-ec1e-e4e7-f8eda85c9381" testName="Test_getPID" computerName="TOMEK-PC" duration="00:00:00.0151141" startTime="2013-08-01T23:47:54.1660818+02:00" endTime="2013-08-01T23:47:54.3531055+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44d685fa-8e62-44fe-94f4-244c6fc7af70">
+      <Output>
+        <StdOut>[8744]</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

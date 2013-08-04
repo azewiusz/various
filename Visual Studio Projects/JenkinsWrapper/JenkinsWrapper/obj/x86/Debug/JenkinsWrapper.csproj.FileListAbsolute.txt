@@ -1,0 +1,18 @@
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.Service1.resources
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\JenkinsWrapper.exe
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\JenkinsWrapper.pdb
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\dotnetcli-0.1.1.dll
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.exe
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.pdb
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.ProjectInstaller.resources
+C:\Users\Tomek\documents\visual studio 2010\Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\JenkinsWrapper.exe.config
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\JenkinsWrapper.exe.config
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\JenkinsWrapper.exe
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\JenkinsWrapper.pdb
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\bin\Debug\dotnetcli-0.1.1.dll
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.ProjectInstaller.resources
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.Service1.resources
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.exe
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\JenkinsWrapper\obj\x86\Debug\JenkinsWrapper.pdb

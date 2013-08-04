@@ -1,0 +1,16 @@
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\bin\Debug\UnitTests.dll
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\obj\Debug\UnitTests.dll
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\obj\Debug\UnitTests.pdb
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\bin\Debug\JenkinsWrapper.exe
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\bin\Debug\dotnetcli-0.1.1.dll
+c:\users\tomek\documents\visual studio 2010\Projects\JenkinsWrapper\UnitTests\bin\Debug\JenkinsWrapper.pdb
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\bin\Debug\JenkinsWrapper.exe
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\bin\Debug\dotnetcli-0.1.1.dll
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\bin\Debug\JenkinsWrapper.pdb
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Tomek\Desktop\Various Git\Visual Studio Projects\JenkinsWrapper\UnitTests\obj\Debug\UnitTests.pdb
